@@ -9,6 +9,6 @@ package praktek01.besty;
  *
  * @author Mamed
  */
-public class Mawar {
+public class Bunga {
     
 }
