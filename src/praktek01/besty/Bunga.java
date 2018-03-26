@@ -15,4 +15,13 @@ public class Bunga {
     String batang;
     String aroma;
     String jenis;
+    
+    
+    void cetakInfo(){
+        System.out.println("Warna           :"+warna);
+        System.out.println("Daun            :"+daun);
+        System.out.println("Batang          :"+batang);
+        System.out.println("aroma           :"+aroma); 
+        System.out.println("Jenis           :"+jenis);
+}
 }
