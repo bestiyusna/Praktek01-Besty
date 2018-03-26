@@ -11,4 +11,8 @@ package praktek01.besty;
  */
 public class mawaraksi {
     
+    Bunga A = new Bunga();
+    Bunga B = new Bunga();
+    Bunga C = new Bunga();                                                                               
+    
 }
