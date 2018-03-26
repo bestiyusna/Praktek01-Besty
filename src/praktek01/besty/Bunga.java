@@ -10,5 +10,9 @@ package praktek01.besty;
  * @author Mamed
  */
 public class Bunga {
-    
+    String warna;
+    String daun;
+    String batang;
+    String aroma;
+    String jenis;
 }
